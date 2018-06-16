@@ -20,7 +20,7 @@ public class QuizActivity extends AppCompatActivity {
             new Question(R.string.question_africa, false),
             new Question(R.string.question_americas, true),
             new Question(R.string.question_asia, true),
-    };
+    };  
 
 
 
